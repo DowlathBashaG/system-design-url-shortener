@@ -14,7 +14,7 @@ This project depends on
 Project Build
 To build this project, run
  
- git clone https://github.com/zeeshaanahmad/url-shortener.git
+ git clone https://github.com/DowlathBashaG/system-design-url-shortener.git
 cd url-shortener
  gradle clean build
 Deployment
